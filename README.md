@@ -12,8 +12,9 @@
 ```javascript
 const iman = {
   pronouns: "she" | "her",
-  code: [JavaScript, C#, HTML, CSS],
+  code: [JavaScript, "C#", "C++", HTML, CSS],
   tools: [Node.js, Express, Git, GitHub],
+  skills: ["Problem Solving", "Data Structures"],
   architecture: ["RESTful APIs", "Backend Systems"],
-  focus: "Building robust web applications and polishing my development skills"
+  focus: "Building robust web applications, solving problems, and polishing my development skills"
 }
