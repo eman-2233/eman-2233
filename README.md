@@ -9,10 +9,12 @@
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me
-
-- 👩‍💻 **Pronouns:** She / Her
+- 👩‍💻 **About Me:** I'm a Freelance Web Designer and Software Developer with a strong passion for Backend Development.
+- 🚀 **Current Focus:** Deep diving into Node.js, C#, and sharpening my Problem-Solving skills using Data Structures & Algorithms.
 - 🧠 **Focus:** Building robust backend systems & sharpening my problem-solving skills.
-- ⚡ **Fun Fact:** I love cold winter days and a warm cup of hot chocolate!
+- 💡 **Goal:** To build robust, scalable server-side applications and efficient web solutions.
+
+
 
 ---
 
